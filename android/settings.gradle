@@ -1,0 +1,3 @@
+rootProject.name = 'Steingram'
+
+include ':app'
